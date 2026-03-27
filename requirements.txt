@@ -1,0 +1,5 @@
+Flask==99.0.0
+requests==2.32.3
+gunicorn==23.0.0
+pydantic==99.1.0
+uvicorn==0.999.0
